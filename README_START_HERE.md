@@ -21,8 +21,7 @@ tamen_website_READY/
    ├─ company-front-placeholder.svg     # 회사 전경(추후 교체)
    ├─ spec-500-*.svg / spec-730-*.svg   # 규격 참고 이미지(추후 교체)
    ├─ catalog.pdf
-   ├─ company-profile.pdf
-   └─ credit-report.pdf
+   └─ company-profile.pdf
 ```
 
 ## 2) 페이지 구성(Information Architecture)
@@ -83,7 +82,6 @@ tamen_website_READY/
 - PDF 교체:
   - `assets/catalog.pdf`
   - `assets/company-profile.pdf`
-  - `assets/credit-report.pdf`
 
 ## 4) 미리보기 방법(가장 쉬운 방식)
 1. `index.html` 을 브라우저로 직접 열기

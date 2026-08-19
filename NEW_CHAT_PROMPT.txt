@@ -10,7 +10,7 @@
 - 핵심: 지하주차장/피난동선용 지하이중벽(벽체배수판) + 바닥 배수판
 - 최우선 CTA: 견적·구매 상담
 - 상담 수신: tae-men@naver.com / T. 031-941-7197 / F. 031-942-7197
-- 자료실 PDF 다운로드: catalog.pdf / company-profile.pdf / credit-report.pdf
+- 자료실 PDF 다운로드: catalog.pdf / company-profile.pdf
 - 페이지: index.html(메인), smc.html, pvc.html, drainage.html
 - 기능:
   - 모바일 메뉴

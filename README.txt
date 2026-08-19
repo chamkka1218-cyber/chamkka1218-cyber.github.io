@@ -15,7 +15,7 @@
 - smc.html / pvc.html / drainage.html : 제품 상세 페이지(3종)
 - styles.css : 공통 스타일 + 히어로 슬라이더/갤러리 라이트박스
 - main.js : 모바일 메뉴 + mailto 문의폼 + 히어로 자동 전환 + 갤러리 라이트박스
-- catalog.pdf / company-profile.pdf / credit-report.pdf : 다운로드 자료
+- catalog.pdf / company-profile.pdf : 다운로드 자료
 - assets/ : 로고 및 이미지
   - logo.jpg
   - hero-1.jpg, hero-2.jpg, hero-3.jpg (히어로 슬라이드)
