@@ -293,7 +293,7 @@ header {
   width: 100%;
   max-width: 620px;
   margin: 0 0 0 auto;
-  padding: 0 24px;
+  padding: 0 clamp(24px, 6vw, 96px) 0 24px;
 }
 
 .hero h1 {
