@@ -282,8 +282,8 @@ header {
   position: absolute;
   inset: 0;
   background: linear-gradient(90deg,
-    rgba(120, 118, 112, 0.62),
-    rgba(120, 118, 112, 0.38));
+    rgba(120, 118, 112, 0.40),
+    rgba(120, 118, 112, 0.14));
   pointer-events: none;
 }
 
@@ -300,6 +300,7 @@ header {
   font-size: 44px;
   letter-spacing: -.6px;
   line-height: 1.15;
+  text-shadow: 0 2px 10px rgba(0,0,0,.45);
 }
 
 .hero p {
@@ -307,6 +308,7 @@ header {
   max-width: 60ch;
   font-size: 18px;
   opacity: .95;
+  text-shadow: 0 1px 8px rgba(0,0,0,.45);
 }
 
 .hero .ctaRow {
