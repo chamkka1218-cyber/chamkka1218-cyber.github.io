@@ -1677,3 +1677,33 @@ footer a {
   font-size:13px;
   line-height:1.2;
 }
+
+/* Homepage labels: retain category colors with white interiors. */
+#solutions .card:has(a[href="wall.html"]) .tag { background: #fff; }
+#solutions .card:has(a[href="drainage.html"]) .tag {
+  background: #fff;
+  color: #A64B0C;
+  border-color: #A64B0C;
+}
+#solutions .card:has(a[href="waterproof.html"]) .tag {
+  background: #fff;
+  color: #9E262D;
+  border-color: #9E262D;
+}
+/* Desktop copy stays above the railing on the right of the hero photo. */
+@media (min-width: 1024px) {
+  #top > .hero .hero-inner {
+    position: absolute;
+    right: 5%;
+    bottom: 30%;
+    margin: 0;
+  }
+}
+@media (min-width: 1024px) and (max-width: 1535px) {
+  #top > .hero h1 { font-size: 28px; }
+  #top > .hero p { font-size: 16px; margin-bottom: 20px; }
+  #top > .hero .ctaRow { gap: 8px; }
+  #top > .hero .ctaRow .btn { font-size: 14px; padding: 11px 14px; }
+  #top > .hero .pillRow { gap: 6px; margin-top: 14px; }
+  #top > .hero .pill { font-size: 11px; padding: 7px 8px; }
+}
