@@ -1695,11 +1695,13 @@ footer a {
   #top > .hero .hero-inner {
     position: absolute;
     right: 5%;
-    bottom: 30%;
+    bottom: 42%;
     margin: 0;
   }
 }
 @media (min-width: 1024px) and (max-width: 1535px) {
+  /* A top inset prevents wrapped copy from crossing the fixed header. */
+  #top > .hero .hero-inner { top: 32px; bottom: auto; }
   #top > .hero h1 { font-size: 28px; }
   #top > .hero p { font-size: 16px; margin-bottom: 20px; }
   #top > .hero .ctaRow { gap: 8px; }
